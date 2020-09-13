@@ -1,0 +1,13 @@
+C:\ngocphuoc\mangcsharp\mangcsharp\docso\bin\Debug\netcoreapp3.1\docso.exe
+C:\ngocphuoc\mangcsharp\mangcsharp\docso\bin\Debug\netcoreapp3.1\docso.deps.json
+C:\ngocphuoc\mangcsharp\mangcsharp\docso\bin\Debug\netcoreapp3.1\docso.runtimeconfig.json
+C:\ngocphuoc\mangcsharp\mangcsharp\docso\bin\Debug\netcoreapp3.1\docso.runtimeconfig.dev.json
+C:\ngocphuoc\mangcsharp\mangcsharp\docso\bin\Debug\netcoreapp3.1\docso.dll
+C:\ngocphuoc\mangcsharp\mangcsharp\docso\bin\Debug\netcoreapp3.1\docso.pdb
+C:\ngocphuoc\mangcsharp\mangcsharp\docso\obj\Debug\netcoreapp3.1\docso.csprojAssemblyReference.cache
+C:\ngocphuoc\mangcsharp\mangcsharp\docso\obj\Debug\netcoreapp3.1\docso.AssemblyInfoInputs.cache
+C:\ngocphuoc\mangcsharp\mangcsharp\docso\obj\Debug\netcoreapp3.1\docso.AssemblyInfo.cs
+C:\ngocphuoc\mangcsharp\mangcsharp\docso\obj\Debug\netcoreapp3.1\docso.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\mangcsharp\mangcsharp\docso\obj\Debug\netcoreapp3.1\docso.dll
+C:\ngocphuoc\mangcsharp\mangcsharp\docso\obj\Debug\netcoreapp3.1\docso.pdb
+C:\ngocphuoc\mangcsharp\mangcsharp\docso\obj\Debug\netcoreapp3.1\docso.genruntimeconfig.cache
