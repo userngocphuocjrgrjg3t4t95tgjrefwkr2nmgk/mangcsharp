@@ -1,0 +1,13 @@
+C:\ngocphuoc\mangcsharp\mangcsharp\sinhvienthido\bin\Debug\netcoreapp3.1\sinhvienthido.exe
+C:\ngocphuoc\mangcsharp\mangcsharp\sinhvienthido\bin\Debug\netcoreapp3.1\sinhvienthido.deps.json
+C:\ngocphuoc\mangcsharp\mangcsharp\sinhvienthido\bin\Debug\netcoreapp3.1\sinhvienthido.runtimeconfig.json
+C:\ngocphuoc\mangcsharp\mangcsharp\sinhvienthido\bin\Debug\netcoreapp3.1\sinhvienthido.runtimeconfig.dev.json
+C:\ngocphuoc\mangcsharp\mangcsharp\sinhvienthido\bin\Debug\netcoreapp3.1\sinhvienthido.dll
+C:\ngocphuoc\mangcsharp\mangcsharp\sinhvienthido\bin\Debug\netcoreapp3.1\sinhvienthido.pdb
+C:\ngocphuoc\mangcsharp\mangcsharp\sinhvienthido\obj\Debug\netcoreapp3.1\sinhvienthido.csprojAssemblyReference.cache
+C:\ngocphuoc\mangcsharp\mangcsharp\sinhvienthido\obj\Debug\netcoreapp3.1\sinhvienthido.AssemblyInfoInputs.cache
+C:\ngocphuoc\mangcsharp\mangcsharp\sinhvienthido\obj\Debug\netcoreapp3.1\sinhvienthido.AssemblyInfo.cs
+C:\ngocphuoc\mangcsharp\mangcsharp\sinhvienthido\obj\Debug\netcoreapp3.1\sinhvienthido.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\mangcsharp\mangcsharp\sinhvienthido\obj\Debug\netcoreapp3.1\sinhvienthido.dll
+C:\ngocphuoc\mangcsharp\mangcsharp\sinhvienthido\obj\Debug\netcoreapp3.1\sinhvienthido.pdb
+C:\ngocphuoc\mangcsharp\mangcsharp\sinhvienthido\obj\Debug\netcoreapp3.1\sinhvienthido.genruntimeconfig.cache

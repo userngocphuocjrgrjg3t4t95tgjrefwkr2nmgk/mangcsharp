@@ -1,0 +1,13 @@
+C:\ngocphuoc\mangcsharp\mangcsharp\daonguoc\bin\Debug\netcoreapp3.1\daonguoc.exe
+C:\ngocphuoc\mangcsharp\mangcsharp\daonguoc\bin\Debug\netcoreapp3.1\daonguoc.deps.json
+C:\ngocphuoc\mangcsharp\mangcsharp\daonguoc\bin\Debug\netcoreapp3.1\daonguoc.runtimeconfig.json
+C:\ngocphuoc\mangcsharp\mangcsharp\daonguoc\bin\Debug\netcoreapp3.1\daonguoc.runtimeconfig.dev.json
+C:\ngocphuoc\mangcsharp\mangcsharp\daonguoc\bin\Debug\netcoreapp3.1\daonguoc.dll
+C:\ngocphuoc\mangcsharp\mangcsharp\daonguoc\bin\Debug\netcoreapp3.1\daonguoc.pdb
+C:\ngocphuoc\mangcsharp\mangcsharp\daonguoc\obj\Debug\netcoreapp3.1\daonguoc.csprojAssemblyReference.cache
+C:\ngocphuoc\mangcsharp\mangcsharp\daonguoc\obj\Debug\netcoreapp3.1\daonguoc.AssemblyInfoInputs.cache
+C:\ngocphuoc\mangcsharp\mangcsharp\daonguoc\obj\Debug\netcoreapp3.1\daonguoc.AssemblyInfo.cs
+C:\ngocphuoc\mangcsharp\mangcsharp\daonguoc\obj\Debug\netcoreapp3.1\daonguoc.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\mangcsharp\mangcsharp\daonguoc\obj\Debug\netcoreapp3.1\daonguoc.dll
+C:\ngocphuoc\mangcsharp\mangcsharp\daonguoc\obj\Debug\netcoreapp3.1\daonguoc.pdb
+C:\ngocphuoc\mangcsharp\mangcsharp\daonguoc\obj\Debug\netcoreapp3.1\daonguoc.genruntimeconfig.cache

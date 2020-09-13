@@ -1,0 +1,13 @@
+C:\ngocphuoc\mangcsharp\mangcsharp\thaotacvoimang\bin\Debug\netcoreapp3.1\thaotacvoimang.exe
+C:\ngocphuoc\mangcsharp\mangcsharp\thaotacvoimang\bin\Debug\netcoreapp3.1\thaotacvoimang.deps.json
+C:\ngocphuoc\mangcsharp\mangcsharp\thaotacvoimang\bin\Debug\netcoreapp3.1\thaotacvoimang.runtimeconfig.json
+C:\ngocphuoc\mangcsharp\mangcsharp\thaotacvoimang\bin\Debug\netcoreapp3.1\thaotacvoimang.runtimeconfig.dev.json
+C:\ngocphuoc\mangcsharp\mangcsharp\thaotacvoimang\bin\Debug\netcoreapp3.1\thaotacvoimang.dll
+C:\ngocphuoc\mangcsharp\mangcsharp\thaotacvoimang\bin\Debug\netcoreapp3.1\thaotacvoimang.pdb
+C:\ngocphuoc\mangcsharp\mangcsharp\thaotacvoimang\obj\Debug\netcoreapp3.1\thaotacvoimang.csprojAssemblyReference.cache
+C:\ngocphuoc\mangcsharp\mangcsharp\thaotacvoimang\obj\Debug\netcoreapp3.1\thaotacvoimang.AssemblyInfoInputs.cache
+C:\ngocphuoc\mangcsharp\mangcsharp\thaotacvoimang\obj\Debug\netcoreapp3.1\thaotacvoimang.AssemblyInfo.cs
+C:\ngocphuoc\mangcsharp\mangcsharp\thaotacvoimang\obj\Debug\netcoreapp3.1\thaotacvoimang.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\mangcsharp\mangcsharp\thaotacvoimang\obj\Debug\netcoreapp3.1\thaotacvoimang.dll
+C:\ngocphuoc\mangcsharp\mangcsharp\thaotacvoimang\obj\Debug\netcoreapp3.1\thaotacvoimang.pdb
+C:\ngocphuoc\mangcsharp\mangcsharp\thaotacvoimang\obj\Debug\netcoreapp3.1\thaotacvoimang.genruntimeconfig.cache

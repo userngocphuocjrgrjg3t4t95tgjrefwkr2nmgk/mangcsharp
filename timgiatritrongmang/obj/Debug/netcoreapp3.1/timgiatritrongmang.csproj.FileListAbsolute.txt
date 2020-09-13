@@ -1,0 +1,13 @@
+C:\ngocphuoc\mangcsharp\mangcsharp\timgiatritrongmang\bin\Debug\netcoreapp3.1\timgiatritrongmang.exe
+C:\ngocphuoc\mangcsharp\mangcsharp\timgiatritrongmang\bin\Debug\netcoreapp3.1\timgiatritrongmang.deps.json
+C:\ngocphuoc\mangcsharp\mangcsharp\timgiatritrongmang\bin\Debug\netcoreapp3.1\timgiatritrongmang.runtimeconfig.json
+C:\ngocphuoc\mangcsharp\mangcsharp\timgiatritrongmang\bin\Debug\netcoreapp3.1\timgiatritrongmang.runtimeconfig.dev.json
+C:\ngocphuoc\mangcsharp\mangcsharp\timgiatritrongmang\bin\Debug\netcoreapp3.1\timgiatritrongmang.dll
+C:\ngocphuoc\mangcsharp\mangcsharp\timgiatritrongmang\bin\Debug\netcoreapp3.1\timgiatritrongmang.pdb
+C:\ngocphuoc\mangcsharp\mangcsharp\timgiatritrongmang\obj\Debug\netcoreapp3.1\timgiatritrongmang.csprojAssemblyReference.cache
+C:\ngocphuoc\mangcsharp\mangcsharp\timgiatritrongmang\obj\Debug\netcoreapp3.1\timgiatritrongmang.AssemblyInfoInputs.cache
+C:\ngocphuoc\mangcsharp\mangcsharp\timgiatritrongmang\obj\Debug\netcoreapp3.1\timgiatritrongmang.AssemblyInfo.cs
+C:\ngocphuoc\mangcsharp\mangcsharp\timgiatritrongmang\obj\Debug\netcoreapp3.1\timgiatritrongmang.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\mangcsharp\mangcsharp\timgiatritrongmang\obj\Debug\netcoreapp3.1\timgiatritrongmang.dll
+C:\ngocphuoc\mangcsharp\mangcsharp\timgiatritrongmang\obj\Debug\netcoreapp3.1\timgiatritrongmang.pdb
+C:\ngocphuoc\mangcsharp\mangcsharp\timgiatritrongmang\obj\Debug\netcoreapp3.1\timgiatritrongmang.genruntimeconfig.cache

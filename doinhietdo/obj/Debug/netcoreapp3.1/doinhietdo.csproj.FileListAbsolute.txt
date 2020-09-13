@@ -1,0 +1,13 @@
+C:\ngocphuoc\mangcsharp\mangcsharp\doinhietdo\bin\Debug\netcoreapp3.1\doinhietdo.exe
+C:\ngocphuoc\mangcsharp\mangcsharp\doinhietdo\bin\Debug\netcoreapp3.1\doinhietdo.deps.json
+C:\ngocphuoc\mangcsharp\mangcsharp\doinhietdo\bin\Debug\netcoreapp3.1\doinhietdo.runtimeconfig.json
+C:\ngocphuoc\mangcsharp\mangcsharp\doinhietdo\bin\Debug\netcoreapp3.1\doinhietdo.runtimeconfig.dev.json
+C:\ngocphuoc\mangcsharp\mangcsharp\doinhietdo\bin\Debug\netcoreapp3.1\doinhietdo.dll
+C:\ngocphuoc\mangcsharp\mangcsharp\doinhietdo\bin\Debug\netcoreapp3.1\doinhietdo.pdb
+C:\ngocphuoc\mangcsharp\mangcsharp\doinhietdo\obj\Debug\netcoreapp3.1\doinhietdo.csprojAssemblyReference.cache
+C:\ngocphuoc\mangcsharp\mangcsharp\doinhietdo\obj\Debug\netcoreapp3.1\doinhietdo.AssemblyInfoInputs.cache
+C:\ngocphuoc\mangcsharp\mangcsharp\doinhietdo\obj\Debug\netcoreapp3.1\doinhietdo.AssemblyInfo.cs
+C:\ngocphuoc\mangcsharp\mangcsharp\doinhietdo\obj\Debug\netcoreapp3.1\doinhietdo.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\mangcsharp\mangcsharp\doinhietdo\obj\Debug\netcoreapp3.1\doinhietdo.dll
+C:\ngocphuoc\mangcsharp\mangcsharp\doinhietdo\obj\Debug\netcoreapp3.1\doinhietdo.pdb
+C:\ngocphuoc\mangcsharp\mangcsharp\doinhietdo\obj\Debug\netcoreapp3.1\doinhietdo.genruntimeconfig.cache
